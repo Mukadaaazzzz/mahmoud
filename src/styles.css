@@ -109,9 +109,6 @@ h1, h2, h3, p { margin-top: 0; }
 .orbit-label-top { top: 24%; left: 19%; }
 .orbit-label-right { top: 52%; right: 6%; }
 .orbit-label-bottom { bottom: 19%; left: 20%; }
-.orbit-star { position: absolute; color: var(--orange); font-size: 22px; }
-.star-one { top: 25%; right: 21%; }
-.star-two { bottom: 20%; right: 22%; font-size: 14px; }
 .visual-caption { position: absolute; bottom: 20px; right: 24px; display: flex; align-items: center; gap: 9px; font-size: 9px; color: #657064; }
 :root[data-theme='dark'] .visual-caption { color: #bbc4b6; }
 .caption-dot { width: 6px; height: 6px; box-shadow: none; }

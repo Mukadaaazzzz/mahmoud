@@ -227,8 +227,6 @@ function App() {
             <div className="orbit-label orbit-label-top"><span>01</span> MAKE IT MATTER</div>
             <div className="orbit-label orbit-label-right"><span>02</span> FIND YOUR PEOPLE</div>
             <div className="orbit-label orbit-label-bottom"><span>03</span> GROW WITH INTENT</div>
-            <span className="orbit-star star-one">✳</span>
-            <span className="orbit-star star-two">✳</span>
             <div className="visual-caption"><span className="caption-dot" /> Strategy in motion</div>
           </div>
           <div className="hero-stats reveal">
