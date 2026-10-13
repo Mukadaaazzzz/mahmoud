@@ -356,7 +356,7 @@ function App() {
               <p>Tell me what you&apos;re building. Let&apos;s see what good marketing can do for it.</p>
               <div className="contact-actions">
                 <a className="button button-light" href="mailto:ibnummiee@gmail.com?subject=Let's%20grow%20together">ibnummiee@gmail.com <ArrowIcon diagonal /></a>
-                <a className="contact-secondary" href="https://wa.me/2349026697446" target="_blank" rel="noreferrer">WhatsApp <ArrowIcon diagonal /></a>
+                <a className="contact-secondary" href="https://wa.me/2348033841147" target="_blank" rel="noreferrer">WhatsApp <ArrowIcon diagonal /></a>
                 <a className="contact-secondary" href="tel:+2347074107944">Call me <ArrowIcon diagonal /></a>
               </div>
               <span className="contact-decoration" aria-hidden="true">MJ</span>
